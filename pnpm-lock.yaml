@@ -49,6 +49,12 @@ importers:
         specifier: ^5
         version: 5.4.5
 
+  packages/betterstack:
+    devDependencies:
+      typescript:
+        specifier: ^5.4.5
+        version: 5.4.5
+
 packages:
 
   '@alloc/quick-lru@5.2.0':
